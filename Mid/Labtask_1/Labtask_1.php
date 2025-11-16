@@ -37,7 +37,8 @@
        
       </tr>
       <tr>
-       <td><select>
+       <td>
+        <select>
           <option>Insurance Provider :</option>
           <option>Provide X</option>
           <option>Provide Y</option>
